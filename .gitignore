@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & outputs (raw data stays local)
+data/raw/*.csv
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
